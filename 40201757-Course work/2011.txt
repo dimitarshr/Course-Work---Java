@@ -1,0 +1,129 @@
+Region	java	c++	c#	python	JavaScript
+Albania	14	0	0	0	0
+Algeria	19	16	7	0	11
+Angola	23	0	0	0	0
+Argentina	15	8	12	12	16
+Armenia	18	42	0	0	37
+Australia	14	11	22	42	25
+Austria	24	18	33	28	24
+Azerbaijan	17	0	0	0	0
+Bahrain	13	0	0	0	0
+Bangladesh	44	41	63	0	50
+Belarus	27	52	64	28	47
+Belgium	17	11	20	29	22
+Bolivia	33	26	50	0	28
+Bosnia & Herzegovina	13	16	18	0	13
+Botswana	56	0	0	0	0
+Brazil	29	11	18	11	21
+Bulgaria	13	20	17	14	22
+Côte d’Ivoire	30	0	0	0	0
+Cambodia	34	0	0	0	54
+Cameroon	49	0	0	0	0
+Canada	18	16	22	41	27
+Chile	19	9	12	13	18
+China	38	48	93	54	69
+Colombia	23	18	12	7	16
+Costa Rica	32	21	36	19	25
+Croatia	13	16	20	23	15
+Cuba	77	0	0	0	0
+Cyprus	15	0	0	0	19
+Czech Republic	31	33	48	50	45
+Denmark	26	10	37	30	25
+Dominican Republic	19	14	24	0	13
+Ecuador	22	29	23	0	18
+Egypt	12	13	22	6	13
+El Salvador	28	17	29	0	24
+Estonia	25	21	23	52	40
+Ethiopia	38	100	0	0	0
+Finland	20	19	19	44	26
+France	15	12	11	27	23
+Georgia	14	22	0	0	19
+Germany	30	25	29	35	28
+Ghana	32	0	0	0	25
+Greece	14	13	11	17	17
+Guatemala	31	34	22	0	17
+Honduras	26	38	0	0	0
+Hong Kong	35	34	45	44	57
+Hungary	21	17	24	19	23
+Iceland	21	0	67	100	45
+India	100	89	100	33	100
+Indonesia	42	21	10	11	23
+Iran	22	43	86	12	27
+Iraq	10	16	0	0	0
+Ireland	16	11	15	29	20
+Israel	17	25	69	33	30
+Italy	17	11	14	16	19
+Jamaica	23	0	0	0	0
+Japan	24	23	33	21	50
+Jordan	13	23	29	0	20
+Kazakhstan	18	25	16	0	19
+Kenya	35	36	0	0	36
+Kuwait	11	0	0	0	12
+Latvia	19	23	21	22	38
+Lebanon	19	26	37	0	33
+Lithuania	18	20	16	16	19
+Luxembourg	25	0	0	0	35
+Macau	27	0	0	0	0
+Macedonia (FYROM)	18	21	30	0	22
+Madagascar	66	0	0	0	0
+Malaysia	19	22	16	12	22
+Malta	28	0	66	0	0
+Mauritius	25	0	0	0	0
+Mexico	28	22	22	9	19
+Moldova	18	24	27	0	28
+Mongolia	32	0	0	0	0
+Montenegro	13	0	0	0	0
+Morocco	21	18	10	7	19
+Mozambique	34	0	0	0	0
+Myanmar (Burma)	40	0	0	0	0
+Nepal	37	40	61	0	60
+Netherlands	18	10	25	30	30
+New Zealand	15	13	31	40	27
+Nicaragua	33	0	0	0	0
+Nigeria	39	17	17	0	24
+Norway	29	16	30	45	25
+Oman	13	0	0	0	0
+Pakistan	33	63	47	12	37
+Palestine	11	0	0	0	0
+Panama	22	17	0	0	19
+Paraguay	21	0	0	0	17
+Peru	24	15	15	7	17
+Philippines	38	48	31	20	40
+Poland	26	32	21	23	19
+Portugal	20	13	27	19	24
+Puerto Rico	12	12	0	0	13
+Qatar	13	0	0	0	0
+Réunion	11	0	0	0	0
+Romania	22	27	22	14	21
+Russia	21	45	42	42	37
+Saudi Arabia	8	6	7	4	8
+Senegal	25	0	0	0	0
+Serbia	14	13	22	14	16
+Singapore	33	30	45	38	40
+Slovakia	17	17	18	18	21
+Slovenia	16	16	34	33	23
+South Africa	23	17	58	39	30
+South Korea	21	34	52	37	49
+Spain	19	10	11	17	21
+Sri Lanka	59	32	93	30	56
+Sudan	16	0	0	0	0
+Sweden	20	19	36	40	27
+Switzerland	21	18	26	40	27
+Syria	15	0	43	0	0
+Taiwan	29	52	67	39	51
+Tanzania	25	0	0	0	0
+Thailand	12	10	16	7	15
+Trinidad & Tobago	21	0	0	0	0
+Tunisia	28	21	23	0	28
+Turkey	18	7	16	6	9
+Uganda	39	0	0	0	0
+Ukraine	19	32	34	24	35
+United Arab Emirates	12	10	15	10	16
+United Kingdom	14	11	23	33	25
+United States	23	20	31	61	34
+Uruguay	18	12	20	20	22
+Uzbekistan	33	0	0	0	0
+Venezuela	16	13	5	7	14
+Vietnam	23	22	48	7	19
+Yemen	13	0	0	0	0
+Zimbabwe	35	0	0	0	0

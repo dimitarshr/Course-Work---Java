@@ -1,0 +1,99 @@
+Region	java	c++	c#	python	JavaScript
+Algeria	24	0	0	0	0
+Argentina	16	11	6	23	12
+Australia	16	14	11	66	17
+Austria	21	20	13	43	14
+Bahrain	10	0	0	0	0
+Bangladesh	48	0	0	0	66
+Belarus	60	73	48	0	54
+Belgium	15	11	8	35	15
+Bolivia	26	28	0	0	17
+Bosnia & Herzegovina	18	0	0	0	0
+Brazil	20	14	6	24	16
+Bulgaria	16	22	10	0	18
+Canada	16	17	10	53	16
+Chile	18	11	4	16	11
+China	21	32	22	32	26
+Colombia	24	23	6	13	13
+Costa Rica	27	25	24	0	22
+Croatia	16	17	10	0	12
+Cyprus	22	0	0	0	0
+Czech Republic	33	39	22	100	32
+Denmark	16	12	17	44	14
+Dominican Republic	17	0	0	0	0
+Ecuador	25	38	18	0	15
+Egypt	15	16	17	0	11
+El Salvador	23	0	0	0	16
+Estonia	25	0	0	0	26
+Finland	16	18	6	64	12
+France	14	14	5	37	15
+Germany	23	23	8	41	14
+Greece	25	24	9	46	17
+Guatemala	24	35	0	0	0
+Hong Kong	35	33	21	40	40
+Hungary	23	19	9	32	18
+Iceland	15	0	0	0	0
+India	100	100	76	66	100
+Indonesia	35	22	8	0	24
+Iran	19	36	24	0	16
+Ireland	16	13	11	50	13
+Israel	17	30	29	42	20
+Italy	20	15	8	32	15
+Jamaica	26	0	0	0	0
+Japan	24	26	15	28	27
+Jordan	21	0	0	0	0
+Kazakhstan	25	0	0	0	0
+Kenya	28	0	0	0	0
+Kuwait	13	0	0	0	0
+Latvia	17	22	0	0	25
+Lebanon	22	0	0	0	0
+Lithuania	18	22	8	0	13
+Luxembourg	20	0	0	0	21
+Macedonia (FYROM)	32	0	0	0	0
+Malaysia	28	31	13	0	27
+Malta	26	0	0	0	0
+Mauritius	38	0	0	0	0
+Mexico	26	25	8	13	12
+Moldova	31	0	0	0	0
+Morocco	22	17	0	0	12
+Netherlands	15	11	9	44	19
+New Zealand	14	14	16	61	17
+Nicaragua	28	0	0	0	0
+Nigeria	28	0	0	0	0
+Norway	23	20	15	84	18
+Pakistan	41	75	54	0	45
+Palestine	12	0	0	0	0
+Panama	19	0	0	0	0
+Paraguay	21	0	0	0	0
+Peru	20	13	5	0	9
+Philippines	31	34	15	34	28
+Poland	25	32	7	38	11
+Portugal	19	16	13	36	16
+Puerto Rico	13	0	0	0	0
+Qatar	11	0	0	0	0
+Romania	24	27	13	22	18
+Russia	31	58	23	96	34
+Saudi Arabia	9	7	4	0	5
+Senegal	22	0	0	0	0
+Serbia	23	20	15	0	15
+Singapore	39	44	27	51	34
+Slovakia	25	25	10	0	17
+Slovenia	19	25	14	0	15
+South Africa	23	22	33	76	22
+South Korea	18	45	18	80	25
+Spain	17	11	5	25	14
+Sri Lanka	85	0	100	0	65
+Sweden	18	23	16	62	17
+Switzerland	18	18	10	51	16
+Taiwan	25	52	19	43	31
+Thailand	11	11	8	16	14
+Trinidad & Tobago	28	0	0	0	0
+Tunisia	41	46	0	0	28
+Turkey	20	6	5	6	6
+Ukraine	28	41	20	49	29
+United Arab Emirates	13	10	8	0	13
+United Kingdom	14	12	11	47	15
+United States	18	19	14	66	18
+Uruguay	25	0	0	0	21
+Venezuela	17	12	2	0	9
+Vietnam	19	33	30	0	24

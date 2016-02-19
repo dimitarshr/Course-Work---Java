@@ -1,0 +1,106 @@
+Region	java	c++	c#	python	JavaScript
+Algeria	19	12	0	0	0
+Argentina	14	6	9	26	13
+Australia	13	8	17	78	18
+Austria	21	12	24	52	18
+Azerbaijan	22	0	0	0	0
+Bahrain	15	0	0	0	0
+Bangladesh	37	0	68	0	50
+Belarus	47	52	89	0	67
+Belgium	14	7	14	44	16
+Bolivia	34	20	40	0	24
+Bosnia & Herzegovina	12	0	0	0	0
+Brazil	24	8	14	24	16
+Bulgaria	11	12	12	24	15
+Canada	16	10	15	68	18
+Chile	18	7	9	21	14
+China	34	28	63	80	49
+Colombia	23	14	13	18	14
+Costa Rica	31	18	32	0	20
+Croatia	12	10	12	39	10
+Cuba	59	0	0	0	0
+Cyprus	15	0	0	0	0
+Czech Republic	29	22	33	100	33
+Denmark	19	7	25	51	16
+Dominican Republic	17	0	0	0	0
+Ecuador	24	21	24	0	15
+Egypt	13	10	19	13	11
+El Salvador	28	0	0	0	19
+Estonia	23	13	0	89	26
+Ethiopia	40	100	0	0	0
+Finland	17	12	10	84	17
+France	12	7	8	46	16
+Germany	25	15	18	52	19
+Ghana	30	0	0	0	0
+Greece	16	10	12	36	16
+Guatemala	27	28	0	0	15
+Honduras	30	0	0	0	0
+Hong Kong	35	23	34	71	43
+Hungary	20	12	16	35	16
+Iceland	17	0	0	0	0
+India	100	58	100	78	100
+Indonesia	38	15	9	20	19
+Iran	17	28	54	0	19
+Ireland	13	7	11	51	13
+Israel	17	18	48	57	22
+Italy	16	7	11	31	14
+Jamaica	20	0	0	0	0
+Japan	27	18	26	41	37
+Jordan	14	23	0	0	17
+Kazakhstan	25	0	0	0	0
+Kenya	32	32	0	0	26
+Kuwait	23	0	0	0	0
+Latvia	16	17	0	0	25
+Lebanon	23	0	0	0	37
+Lithuania	14	10	9	27	12
+Luxembourg	23	0	0	0	28
+Malaysia	19	15	14	23	19
+Malta	25	0	0	0	0
+Mauritius	27	0	0	0	0
+Mexico	27	16	16	16	14
+Moldova	28	0	0	0	0
+Mongolia	39	0	0	0	0
+Morocco	19	13	7	0	15
+Myanmar (Burma)	33	0	0	0	0
+Netherlands	15	6	17	49	21
+New Zealand	13	8	23	74	20
+Nicaragua	33	0	0	0	0
+Nigeria	31	0	0	0	0
+Norway	21	9	19	79	16
+Oman	15	0	0	0	0
+Pakistan	33	44	70	0	46
+Palestine	14	0	0	0	0
+Panama	19	0	0	0	0
+Paraguay	27	0	0	0	0
+Peru	23	11	12	11	12
+Philippines	37	34	27	38	33
+Poland	25	20	14	42	13
+Portugal	19	9	21	35	17
+Puerto Rico	12	0	0	0	0
+Qatar	13	0	0	0	0
+Romania	20	18	18	27	17
+Russia	21	31	35	92	31
+Saudi Arabia	10	5	11	0	9
+Senegal	23	0	0	0	0
+Serbia	16	9	25	0	15
+Singapore	37	23	36	67	32
+Slovakia	17	12	16	34	15
+Slovenia	14	13	24	62	16
+South Africa	21	13	47	79	22
+South Korea	25	31	46	88	38
+Spain	17	7	9	29	15
+Sri Lanka	65	0	99	0	62
+Sweden	17	12	24	74	19
+Switzerland	19	12	19	75	20
+Syria	14	0	0	0	0
+Taiwan	32	40	55	84	43
+Thailand	10	8	15	16	15
+Tunisia	29	18	19	0	26
+Turkey	18	4	11	7	6
+Ukraine	19	21	28	52	28
+United Arab Emirates	11	6	9	0	12
+United Kingdom	15	8	17	51	17
+United States	22	14	22	98	23
+Uruguay	24	0	0	0	22
+Venezuela	16	8	4	0	9
+Vietnam	18	14	32	12	14
